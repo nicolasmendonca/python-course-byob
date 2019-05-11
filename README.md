@@ -80,3 +80,8 @@ $ pip freeze > requirements.txt
 /vagrant/src/profiles_project$ python manage.py migrate
 ```
 
+## Creating super user
+
+```bash
+/vagrant/src/profiles_project$ python manage.py createsuperuser
+```
