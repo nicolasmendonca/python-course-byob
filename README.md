@@ -73,5 +73,10 @@ src$ python manage.py startapp profiles_api
 $ pip freeze > requirements.txt
 ```
 
+## Creating migrations
 
+```bash
+/vagrant/src/profiles_project$ python manage.py makemigrations
+/vagrant/src/profiles_project$ python manage.py migrate
+```
 
