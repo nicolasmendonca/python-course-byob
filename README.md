@@ -85,3 +85,11 @@ $ pip freeze > requirements.txt
 ```bash
 /vagrant/src/profiles_project$ python manage.py createsuperuser
 ```
+
+## Starting the server
+
+```bash
+/vagrant/src/profiles_project$ python manage.py runserver 0.0.0.0:8080
+```
+
+Go to [http://localhost:8080/admin](http://localhost:8080/admin)
