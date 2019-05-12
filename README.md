@@ -109,3 +109,11 @@ Go to [http://localhost:8080/admin](http://localhost:8080/admin)
 	- For simple CRUD interface
 	- Little to no customization
 
+# Token
+
+```
+filters:
+	URL Pattern http://localhost:8080
+Headers:
+	Authorization: token ce37b5c4ac36304592f5af442d706446d05dbbc3
+```
