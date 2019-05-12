@@ -93,3 +93,11 @@ $ pip freeze > requirements.txt
 ```
 
 Go to [http://localhost:8080/admin](http://localhost:8080/admin)
+
+## ViewSets
+
+- APIView
+- Viewset
+	- For simple CRUD interface
+	- Little to no customization
+
