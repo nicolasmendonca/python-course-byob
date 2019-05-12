@@ -1,3 +1,11 @@
+# Pyenv
+
+```bash
+$ pyenv install -v 3.6.0
+$ pyenv activate profiles_api_36
+```
+
+
 # Vagrant
 
 ## Starting
